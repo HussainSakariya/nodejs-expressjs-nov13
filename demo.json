@@ -1,0 +1,20 @@
+{"data" : [
+    {
+        "no": 1,
+        "name": "hussain",
+        "age": 23,
+        "slug": "hussain"
+    },
+    {
+        "no": 1,
+        "name": "sunen",
+        "age": 24,
+        "slug": "sunen"
+    },
+    {
+        "no": 1,
+        "name": "Smith",
+        "age": 25,
+        "slug": "Smith"
+    }
+]}
